@@ -1,4 +1,4 @@
-# CDAE
+# Feature Learning using Convolutional Denoising Autoencoder for Activity Recognition
 
 This is the code for [Feature Learning using Convolutional Denoising Autoencoder for Activity Recognition. Neural Computing and Applications, 2021](https://doi.org/10.1007/s00521-020-05638-4)
 
